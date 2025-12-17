@@ -1,2 +1,6 @@
-# python-learning-journey
-Python fundamentals and learning notes as part of my journey to strengthen core programming skills for data engineering.
+# 🐍 Python Learning Journey
+
+This repository contains my daily Python learning notes, examples, and practice code.
+The goal is to build strong Python fundamentals and apply them in real-world projects,
+especially in data engineering.
+
